@@ -2,19 +2,30 @@
 
 # [Making Intelligent IT Solutions](https://www.bhojpur-consulting.com)
 
-We encourage __free__ and __open source__ software development that establishes reasonable trust among customer. Also, it is
-their right to know what exactly is there under the hood in the technology products or services they are consuming. They are
-learn about it at their own pace.
+We encourage __free__ and __open source__ software development that establishes reasonable trust among customers. Also, it is
+their `right to know`, what exactly is there under the hood in the technology __products__ or __services__ they are consuming.
+Anyone can learn about the software by reviewing the `source code` at their own pace. You are free to __copy__ the source code
+and encouraged to experiment and/or use it according to your situation.
 
 We make web-scale, high-performance, distributed software `products` (e.g. `applications`, `platforms`, `APIs`) and `services`
-targeting `decentralized` **digital enterprises** and **communication service providers** globally.
+targeting `decentralized` **digital enterprises** and **communication service providers** globally. We specialize in complex
+system integration.
 
-## Platform Development
+## Platform as a Service Development
 
 We are continuously integrating, building, testing, and deploying [Bhojpur.NET Platform](https://github.com/bhojpur/platform)
 ecosystem solutions to deliver high quality software and reliable systems to the clients. Some among these are available in a
-cloud hosted model. However, you have the freedom to download and self-host the same in your own data center (i.e. on-premise
-or public Cloud). 
+cloud __hosted__ model. However, you have the freedom to download and __self-host__ the same in your own data center (i.e.
+on-premise or public Cloud). We use multiple `cloud service providers` to host the solution for reliability and availability
+reasons. Most of our solutions are cloud-aware, but definitely cloud agnostic.
+
+## Custom Application Development
+
+We engage with enterprise clients to develop `multi-tenant` software applications accessible through **mobile**, **web**, and
+**desktop**. Such custom IT solutions are designed for high-performance, web-scale, apply decentralized architecture, integrate
+well with market leading products or services or platform APIs, and leverage __pre-integrated__, __tested__, and __reliable__
+[Bhojpur.NET Platform](https://github.com/bhojpur/platform) ecosystem solution capabilities. We can build custom IT solutions
+very quickly due to our pre-integrated `frameworks` and `SDKs`.
 
 ## Support Services
 
