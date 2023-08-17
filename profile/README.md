@@ -1,4 +1,4 @@
-![Bhojpur Consulting](https://static.bhojpur.net/image/logo.png)
+![Bhojpur Consulting](https://4.bp.blogspot.com/-W6sP7UczbCc/WqB48tWbv3I/AAAAAAAAFQE/bhwCc4aHo5wOI0KyhOzNRAJjB80JIsr0wCK4BGAYYCw/s130/logo.png)
 
 # [Making Intelligent IT Solutions](https://www.bhojpur-consulting.com)
 
@@ -13,7 +13,7 @@ system integration.
 
 ## Platform as a Service Development
 
-We are continuously integrating, building, testing, and deploying [Bhojpur.NET Platform](https://github.com/bhojpur/platform)
+We are continuously planning, building, integrating, testing, and deploying [Bhojpur.NET platform](https://www.bhojpur.net)
 ecosystem solutions to deliver high quality software and reliable systems to the clients. Some among these are available in a
 cloud __hosted__ model. However, you have the freedom to download and __self-host__ the same in your own data center (i.e.
 on-premise or public Cloud). We use multiple `cloud service providers` to host the solution for reliability and availability
@@ -21,10 +21,11 @@ reasons. Most of our solutions are cloud-aware, but definitely cloud agnostic.
 
 ## Custom Application Development
 
-We engage with enterprise clients to develop `multi-tenant` software applications accessible through **mobile**, **web**, and
-**desktop**. Such custom IT solutions are designed for high-performance, web-scale, apply decentralized architecture, integrate
-well with market leading products or services or platform APIs, and leverage __pre-integrated__, __tested__, and __reliable__
-[Bhojpur.NET Platform](https://github.com/bhojpur/platform) ecosystem solution capabilities. We can build custom IT solutions
+We [engage](https://engage.bhojpur-consulting.org) with small, medium, and large enterprise clients globally to develop
+`multi-tenant` software applications and service APIs accessible through **mobile**, **web**, and **desktop**. Such custom
+IT solutions are designed for high-performance, web-scale, apply decentralized architecture, integrate well with market leading
+products or services or platform APIs, and leverage __pre-integrated__, __tested__, and __reliable__
+[Bhojpur.NET platform](https://github.com/bhojpur/platform) ecosystem solution capabilities. We can build custom IT solutions
 very quickly due to our pre-integrated `frameworks` and `SDKs`.
 
 ## Support Services
